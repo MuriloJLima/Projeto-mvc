@@ -1,0 +1,14 @@
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\bin\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.exe.config
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\bin\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.exe
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\bin\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.pdb
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.csproj.AssemblyReference.cache
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.FormLogin.resources
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.Properties.Resources.resources
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.csproj.GenerateResource.cache
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.csproj.CoreCompileInputs.cache
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.exe
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.pdb
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\bin\Debug\MySql.Data.dll
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\bin\Debug\MySQLConnection.dll
+C:\Users\marcus vinicius\Desktop\Atividades Murilo\Curso DS\MÓDULO 2\DS1\CRUD_MVC_Gustavo_Leao_Murilo_Lima\CRUD_MVC_Gustavo_Leao_Murilo_Lima\obj\Debug\CRUD_MVC_Gustavo_Leao_Murilo_Lima.csproj.CopyComplete
